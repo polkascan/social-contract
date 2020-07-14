@@ -1,6 +1,6 @@
 ## Treasury Proposal 16
 This treasury proposal is part of the Social Contract between the Kusama Network Community and Polkascan Foundation.
-Details of the Social Contract can be found here: https://github.com/polkascan/social-contract/blob/master/kusama/social-contract.md
+Details of the Social Contract can be found [here](https://github.com/polkascan/social-contract/blob/master/kusama/social-contract.md).
 
 ### Treasury Spending Proposal
 - Services: 1500.00 EUR

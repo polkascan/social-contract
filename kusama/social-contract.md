@@ -1,5 +1,5 @@
 # Social Contract between Kusama Network and Polkascan Foundation
-This Social Contract aims to serve as an agreement between Polkascan Foundation on one hand and the Kusama Network COmmunity on the other hand. The Social Contract should be viewed as an off-chain coordination mechanism to advance the relation between Kusama Network Community and Polkascan Foundation in its role of external service provider. The general context of this Social Contract can be found [here](https://github.com/polkascan/social-contract/blob/master/README.md).
+This Social Contract aims to serve as an agreement between Polkascan Foundation on one hand and the Kusama Network Community on the other hand. The Social Contract should be viewed as an off-chain coordination mechanism to advance the relation between Kusama Network Community and Polkascan Foundation in its role of external service provider. The general context of this Social Contract can be found [here](https://github.com/polkascan/social-contract/blob/master/README.md).
 
 ## 1. Services
 1. A functioning block explorer with support for Kusama Network on [polkascan.io](https://polkascan.io).
@@ -11,12 +11,12 @@ This Social Contract aims to serve as an agreement between Polkascan Foundation 
 Our current ball-park figure for operational expenses for the Kusama Network components of [polkascan.io](https://polkascan.io) are 500,00 EUR per month.
 
 ## 3. Funding request from the Kusama Treasury
-We will make periodic funding requests to the Kusama Treasury:
+Polkascan Foundation will make periodic funding requests to the Kusama Treasury:
 1. A recurrent three month pre-paid funding of operational expenses, which totals to 1500 EUR.
 2. KSM base-price will be determined on by taking an 30 day average price from major exchanges.
 3. Trading-slippage will be taken into account by adding a surplus to the KSM base-price.
 4. An additional surplus will be taken into account for taxes owed by Polkascan Foundation.
-5. Polkascan Foundation will use its Council seat to bring the Treasury Proposal to vote.
+5. If necessary Polkascan Foundation will use its Council seat to bring the Treasury Proposal to vote.
 
 ## 4. Treasury Proposals
 This section lists the Treasury Proposals that have been submitted to the Kusama Treasury.
