@@ -13,7 +13,7 @@ Our current ball-park figure for operational expenses for the Polkadot Network c
 ## 3. Funding request from the Polkadot Treasury
 Polkascan Foundation will make periodic funding requests to the Polkadot Treasury:
 1. A recurrent three month pre-paid funding of operational expenses, which totals to 3000 EUR.
-2. DOT base-price will be determined on by taking an 30 day average price from major exchanges.
+2. DOT base-price will be determined by taking a 30 day average price from major exchanges.
 3. An additional surplus will be taken into account for taxes owed by Polkascan Foundation.
 4. If necessary Polkascan Foundation will use its eventual Council seat to bring the Treasury Proposal to vote.
 

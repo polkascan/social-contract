@@ -11,11 +11,11 @@ Details of the Social Contract can be found [here](https://github.com/polkascan/
 - -------------------- +
 - Total Treasury Spending Proposal: 34.316506 DOT*
 
-### Appendix: Exchange rate EUR/DOT
 (*) [Pre Re-Denomination DOTs](https://polkadot.network/the-results-are-in/)
-The Social Contract states that DOT base-price will be determined by taking an 30 day average price from major exchanges. Currently DOTs are not traded on exchanges.
-Hence there is currently no official method to determine fair value of DOT.
+### Appendix: Exchange rate EUR/DOT
+The Social Contract states that the DOT* base-price will be determined by taking a 30 day average price from major exchanges. Currently DOTs* are not traded on exchanges.
+Hence there is currently no official method to determine fair value of DOT*.
 The used exchange rate in this treasury proposal is based on a report of a recent private sale according to this [source](https://www.coindesk.com/polkadot-raises-43m-in-72-hour-private-sale-source).
-The exchange is determined as: 125 USD/DOT. 
+The exchange is determined as: 125 USD/DOT*. 
 [EUR|USD](https://www.exchangerates.org.uk/EUR-USD-13_08_2020-exchange-rate-history.html) conversion rate on 13 August 2020: 1.1817 USD/EUR. 
-This provides the DOT exchange rate of: 105.78 EUR/DOT.
+This provides the DOT exchange rate of: 105.78 EUR/DOT*.

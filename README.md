@@ -32,7 +32,7 @@ The Social Contract's key contribution is twofold:
 2. Create a process to develop and mature a Social Contract for the reciprocal relationship between a Blockchain, Treasury or DAO and its ecosystem service provider.
 
 ## 4. Proposals
-Currently Polkascan Foundtion serves two Blockchain communities with a Social Contract.
+Currently Polkascan Foundation serves two Blockchain communities with a Social Contract.
 Details can be found here:
 
 1. KUSAMA NETWORK: Social Contract between Kusama Network and Polkascan Foundation ([link](https://github.com/polkascan/social-contract/blob/master/kusama/social-contract.md).)
