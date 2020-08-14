@@ -25,16 +25,18 @@ b. How would we receive funds from a Blockchain, Treasury or DAO?
 ## 3. Objectives
 The objective of this document and the proposed next steps is simple: 
 > Arrange a situation in which a Blockchain Treasury can sustainably fund the services it requires on [polkascan.io](https://polkascan.io).
+> Arrange a situation in which users of Polkascan Foundation services maintain assurances that services are neutral and do not serve any interests of external parties, investors, advertisers, et cetera.
 
 The Social Contract's key contribution is twofold:
 1. Provide a solution to sustainably fund external service providers by a Blockchain, Treasury or DAO, taking financial, legal, moral and practical considerations of the relationship into account.
 2. Create a process to develop and mature a Social Contract for the reciprocal relationship between a Blockchain, Treasury or DAO and its ecosystem service provider.
 
 ## 4. Proposals
-Currently Polkascan Foundtion serves one Blockchain community with a Social Contract.
+Currently Polkascan Foundtion serves two Blockchain communities with a Social Contract.
 Details can be found here:
 
-1. Social Contract between Kusama Network and Polkascan Foundation ([link](https://github.com/polkascan/social-contract/blob/master/kusama/social-contract.md).)
+1. KUSAMA NETWORK: Social Contract between Kusama Network and Polkascan Foundation ([link](https://github.com/polkascan/social-contract/blob/master/kusama/social-contract.md).)
+2. POLKADOT NETWORK: Social Contract between Polkadot Network and Polkascan Foundation ([link](https://github.com/polkascan/social-contract/blob/master/polkadot/social-contract.md).)
 
 ## 5 Continuous improvement
 One of the conclusions we have reached is that it is really hard to have a contract with an entity such as a Blockchain, Treasury or DAO. There are all sorts of difficulties to reach a form of concensus on the content of such contract. In addition to the financial, legal, moral and practical difficulties, our use-case has a number of additional difficulties we will need to find creative solutions for. In general would like to use our future relationship to follow a path of continuous improvement. Polkascan Foundation's initial Social Contract sets a baseline. Collectively a a community we can mature this Social Contract. We look forward to your contributions.
