@@ -1,4 +1,4 @@
-## Treasury Proposal 2: Term September 2020 - October 2020
+## Treasury Proposal 2: Term September 2020 - November 2020
 This treasury proposal is part of the Social Contract between the Polkadot Network Community and Polkascan Foundation.
 Details of the Social Contract can be found [here](https://github.com/polkascan/social-contract/blob/master/polkadot/social-contract.md).
 
@@ -7,11 +7,12 @@ Details of the Social Contract can be found [here](https://github.com/polkascan/
 - 21% VAT: 630.00 EUR
 - -------------------- +
 - Total Services: 3630.00 EUR
-- Total Services: 34.316506 DOT
+- Total Services: 34.316506 DOT*
 - -------------------- +
-- Total Treasury Spending Proposal: 34.316506 DOT
+- Total Treasury Spending Proposal: 34.316506 DOT*
 
 ### Appendix: Exchange rate EUR/DOT
+(*) [Pre Re-Denomination DOTs](https://polkadot.network/the-results-are-in/)
 The Social Contract states that DOT base-price will be determined by taking an 30 day average price from major exchanges. Currently DOTs are not traded on exchanges.
 Hence there is currently no official method to determine fair value of DOT.
 The used exchange rate in this treasury proposal is based on a report of a recent private sale according to this [source](https://www.coindesk.com/polkadot-raises-43m-in-72-hour-private-sale-source).

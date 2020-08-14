@@ -21,5 +21,5 @@ Polkascan Foundation will make periodic funding requests to the Polkadot Treasur
 This section lists the Treasury Proposals that have been submitted to the Polkadot Treasury.
 The details of each of the proposals can be found on the referenced pages:
 1. [Treasury Proposal 1](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-001.md): Term June 2020 - August 2020
-2. [Treasury Proposal 2](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-002.md): Term September 2020 - October 2020
+2. [Treasury Proposal 2](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-002.md): Term September 2020 - November 2020
 
