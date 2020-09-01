@@ -12,7 +12,7 @@ Details of the Social Contract can be found [here](https://github.com/polkascan/
 - Total Treasury Spending Proposal: 10,000.00 DOT*
 
 (*) [Re-Denomination DOT](https://polkadot.network/the-results-are-in/)
-### Appendix: Exchange rate EUR/DOT (old)
-The Social Contract states that the DOT base-price will be determined by taking a 30 day average price from major exchanges. 
+### Appendix: Exchange rate EUR/DOT
+The Social Contract states that the DOT* base-price will be determined by taking a 30 day average price from major exchanges. 
 Currently DOT* has not been traded on exchanges long enough to determine a 30 day average price. 
 Hence there is currently no good method to determine fair value of DOT*.
