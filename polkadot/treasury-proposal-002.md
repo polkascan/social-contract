@@ -1,6 +1,6 @@
 ## Treasury Proposal 2: Term June 2020 - November 2020
 This treasury proposal is part of the Social Contract between the Polkadot Network Community and Polkascan Foundation.
-Details of the Social Contract can be found [here](https://github.com/polkascan/social-contract/blob/master/polkadot/social-contract.md).
+Details of the Social Contract can be found [here](https://github.com/polkascan/social-contract/blob/master/polkadot/social-contract-001.md).
 
 ### Treasury Spending Proposal
 - Services: 6000.00 EUR
