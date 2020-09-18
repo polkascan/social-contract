@@ -1,4 +1,4 @@
-## Treasury Proposal 2: Term June 2020 - November 2020
+## Treasury Proposal 11: Term October 2020 - December 2020
 This treasury proposal is part of the Social Contract between the Kulupu Network Community and Polkascan Foundation.
 Details of the Social Contract can be found [here](https://github.com/polkascan/social-contract/blob/master/kulupu/social-contract-001.md).
 
