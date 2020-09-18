@@ -10,17 +10,17 @@ At Polkascan Foundation we believe that a public block explorer is part of criti
 There are a number of problems we try to address and aim to solve with this Social Contract. The following list cover non-exhaustive set of problems we have been thinking about.
 
 1. Financial considerations
-a. What is the operational cost of a multi-chain explorer?
-b. How can we sustainably fund a multi-chain explorer?
+- What is the operational cost of a multi-chain explorer?
+- How can we sustainably fund a multi-chain explorer?
 2. Legal considerations
-a. Can you have a contract with a Blockchain, Treasury or DAO?
-b. Is it legal to receive funds from a Blockchain, Treasury or DAO?
+- Can you have a contract with a Blockchain, Treasury or DAO?
+- Is it legal to receive funds from a Blockchain, Treasury or DAO?
 3. Moral cosiderations
-a. How should we deal with taxes?
-b. Can we have a reciprocal trust-relationship a Blockchain, Treasury or DAO?
+- How should we deal with taxes?
+- Can we have a reciprocal trust-relationship a Blockchain, Treasury or DAO?
 4. Practical considerations
-a. How do we deal with illiquid assets?
-b. How would we receive funds from a Blockchain, Treasury or DAO?
+- How do we deal with illiquid assets?
+- How would we receive funds from a Blockchain, Treasury or DAO?
 
 ## 3. Objectives
 The objective of this document and the proposed next steps is simple: 
@@ -32,11 +32,12 @@ The Social Contract's key contribution is twofold:
 2. Create a process to develop and mature a Social Contract for the reciprocal relationship between a Blockchain, Treasury or DAO and its ecosystem service provider.
 
 ## 4. Proposals
-Currently Polkascan Foundation serves two Blockchain communities with a Social Contract.
+Currently Polkascan Foundation serves various Blockchain communities with a Social Contract.
 Details can be found here:
 
 1. KUSAMA NETWORK: Social Contract between Kusama Network and Polkascan Foundation ([link](https://github.com/polkascan/social-contract/blob/master/kusama/social-contract.md).)
 2. POLKADOT NETWORK: Social Contract between Polkadot Network and Polkascan Foundation ([link](https://github.com/polkascan/social-contract/blob/master/polkadot/social-contract.md).)
+3. KULUPU NETWORK: Social Contract between Kulupu Network and Polkascan Foundation ([link](https://github.com/polkascan/social-contract/blob/master/kulupu/social-contract.md).)
 
 ## 5 Continuous improvement
 One of the conclusions we have reached is that it is really hard to have a contract with an entity such as a Blockchain, Treasury or DAO. There are all sorts of difficulties to reach a form of concensus on the content of such contract. In addition to the financial, legal, moral and practical difficulties, our use-case has a number of additional difficulties we will need to find creative solutions for. In general would like to use our future relationship to follow a path of continuous improvement. Polkascan Foundation's initial Social Contract sets a baseline. Collectively a a community we can mature this Social Contract. We look forward to your contributions.
