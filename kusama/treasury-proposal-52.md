@@ -48,4 +48,4 @@ Date	Open*
 - Sep 20, 2020	44.00
 
 
-A thirty-day average trading price across exchanges is determined as: 32.48 USD/KSM. [EUR|USD](https://www.exchangerates.org.uk/EUR-USD-19_10_2020-exchange-rate-history.html) conversion rate on 19 July 2020: 1.1812 USD/EUR. This provides the KSM exchange rate of: 27.50 EUR/KSM.
+A thirty-day average trading price across exchanges is determined as: 32.48 USD/KSM. [EUR|USD](https://www.exchangerates.org.uk/EUR-USD-19_10_2020-exchange-rate-history.html) conversion rate on 19 October 2020: 1.1812 USD/EUR. This provides the KSM exchange rate of: 27.50 EUR/KSM.
