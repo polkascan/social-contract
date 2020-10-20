@@ -7,10 +7,10 @@ Details of the Social Contract can be found [here](https://github.com/polkascan/
 - 21% VAT: 315.00 EUR
 - -------------------- +
 - Total Services: 1815.00 EUR
-- Total Services: 67.72 KSM
-- Slippage Surplus: 10% - 6.77 KSM
+- Total Services: 66.00 KSM
+- Slippage Surplus: 10% - 6.60 KSM
 - -------------------- +
-- Total Treasury Spending Proposal: 74.49 KSM
+- Total Treasury Spending Proposal: 72.60 KSM
 
 ### Appendix: Exchange rate EUR/KSM
 Price snapshot was taken on the day of the publication of this Treasury Proposal. [CMC](https://coinmarketcap.com/currencies/kusama/historical-data/) lists the following opening prices as data points on 19 October 2020 for the past 30 day period: 
