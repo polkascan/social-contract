@@ -1,8 +1,6 @@
 # Product owner Python Libraries Report - October
 
-The first month kicked off with setting up **project kanban boards** [https://github.com/polkascan/py-substrate-interface/projects](https://github.com/polkascan/py-substrate-interface/projects)
-
-for each of the four categories defined in the treasury proposal: Technical debt, Community support, Bugs & Maintenance and Feature development. This way it will be transparent how time will be spent and easily keep track of progress. 
+The first month kicked off with setting up **project kanban boards** [https://github.com/polkascan/py-substrate-interface/projects](https://github.com/polkascan/py-substrate-interface/projects) for each of the four categories defined in the treasury proposal: Technical debt, Community support, Bugs & Maintenance and Feature development. This way it will be transparent how time will be spent and easily keep track of progress. 
 
 
 # Overview of time spent per category
@@ -17,7 +15,7 @@ for each of the four categories defined in the treasury proposal: Technical debt
 
 # Highlights of October 
 
-There have been several **runtime upgrades** on Polkadot and Kusama that needed attention, like implementing new Bounty types in the type registries [https://github.com/polkascan/py-substrate-interface/issues/33](https://github.com/polkascan/py-substrate-interface/issues/33) and added support for **MetadataV12**: [https://github.com/polkascan/py-substrate-interface/issues/30](https://github.com/polkascan/py-substrate-interface/issues/30)
+There have been several **runtime upgrades** on Polkadot and Kusama that needed attention, like implementing new **Bounty types** in the type registries [https://github.com/polkascan/py-substrate-interface/issues/33](https://github.com/polkascan/py-substrate-interface/issues/33) and added support for **MetadataV12**: [https://github.com/polkascan/py-substrate-interface/issues/30](https://github.com/polkascan/py-substrate-interface/issues/30)
 
 Substantial time has been spent on **answering questions** of and providing support to the community, for example to make a specialized **substrate-node-template type registry** so that an instance of Polkascan can be created that’s compatible with [https://github.com/substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template)
 
@@ -25,7 +23,7 @@ I gave some priority to finish some features left on the todo list that were req
 
 Also questions popped up on how to use the Python libraries for other chains like **Kulupu** [https://github.com/polkascan/py-substrate-interface/issues/27](https://github.com/polkascan/py-substrate-interface/issues/27) or how **fees are determined** [https://github.com/polkascan/substrate-interface-api/issues/2](https://github.com/polkascan/substrate-interface-api/issues/2)
 
-Pending pull requests have been reviewed and integrated like [https://github.com/polkascan/py-substrate-interface/pull/25](https://github.com/polkascan/py-substrate-interface/pull/25) that provided very useful functionality like the possibility to i**terate over storage key/value pairs**.
+Pending pull requests have been reviewed and integrated like [https://github.com/polkascan/py-substrate-interface/pull/25](https://github.com/polkascan/py-substrate-interface/pull/25) that provided very useful functionality like the possibility to **iterate over storage key/value pairs**.
 
 There have been added a lot of **unit tests** as an ongoing effort in improving the code coverage and **quality of the code**. 
 
