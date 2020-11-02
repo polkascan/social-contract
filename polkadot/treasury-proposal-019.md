@@ -3,13 +3,13 @@ This treasury proposal is part of the Social Contract between the Polkadot Netwo
 Details of the Social Contract can be found [here](https://github.com/polkascan/social-contract/blob/master/polkadot/social-contract-001.md).
 
 ### Treasury Spending Proposal
-- Services: 6000.00 EUR
-- 21% VAT: 1260.00 EUR
+- Services: 3000.00 EUR
+- 21% VAT: 630.00 EUR
 - -------------------- +
-- Total Services: 7260.00 EUR
-- Total Services: 2022.28412 DOT
+- Total Services: 3630.00 EUR
+- Total Services: 1011.14206 DOT
 - -------------------- +
-- Total Treasury Spending Proposal: 2022.28412 DOT
+- Total Treasury Spending Proposal: 1011.14206 DOT
 
 ### Appendix: Exchange rate EUR/DOT
 Price snapshot was taken on the day of the publication of this Treasury Proposal. [CMC](https://coinmarketcap.com/currencies/polkadot-new/historical-data/) lists the following opening prices as data points on 1 November 2020 for the past 30 day period: 
