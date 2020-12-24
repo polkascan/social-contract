@@ -12,7 +12,7 @@
 
 # Highlights of December 
 
-The main focus was on creating an interface for ink! contracts to the libraries. This feature request from the Python Substrate community is now released and [being tested](https://github.com/polkascan/py-substrate-interface/issues/56). 
+The main focus this month was creating an interface for ink! contracts to the libraries. This feature request from the Python Substrate community is now released and [being tested](https://github.com/polkascan/py-substrate-interface/issues/56). 
 
 Code examples can be found here: https://github.com/polkascan/py-substrate-interface#ink-contract-interfacing
 
