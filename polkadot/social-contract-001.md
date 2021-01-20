@@ -22,4 +22,5 @@ This section lists the Treasury Proposals that have been submitted to the Polkad
 The details of each of the proposals can be found on the referenced pages:
 - [Treasury Proposal 2](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-002.md): Term 1 June 2020 - 30 November 2020
 - [Treasury Proposal 19](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-019.md): Term 1 December 2020 - 28 February 2021
+- [Treasury Proposal 32](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-032.md): Term 1 March 2021 - 31 May 2021
 
