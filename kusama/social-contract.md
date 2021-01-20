@@ -25,4 +25,5 @@ The details of each of the proposals can be found on the referenced pages:
 2. [Treasury Proposal 17: Term 1 May 2020 - 31 July 2020](https://github.com/polkascan/social-contract/blob/master/kusama/treasury-proposal-17.md)
 3. [Treasury Proposal 36: Term 1 August 2020 - 31 October 2020](https://github.com/polkascan/social-contract/blob/master/kusama/treasury-proposal-36.md)
 4. [Treasury Proposal 52: Term 1 November 2020 - 31 January 2021](https://github.com/polkascan/social-contract/blob/master/kusama/treasury-proposal-52.md)
+5. [Treasury Proposal 73: Term 1 February 2021 - 31 April 2021](https://github.com/polkascan/social-contract/blob/master/kusama/treasury-proposal-73.md)
 
