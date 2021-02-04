@@ -1,4 +1,4 @@
-## Treasury Proposal 16
+## Treasury Proposal 36
 This treasury proposal is part of the Social Contract between the Kusama Network Community and Polkascan Foundation.
 Details of the Social Contract can be found [here](https://github.com/polkascan/social-contract/blob/master/kusama/social-contract.md).
 
