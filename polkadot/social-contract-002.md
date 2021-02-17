@@ -38,11 +38,6 @@ Python Bindings SR25519 is an interface that exposes methods from a RUST crate a
 - Repository: https://github.com/polkascan/py-sr25519-bindings
 - Documentation: https://docs.rs/py-sr25519-bindings/0.1.2/sr25519/
 
-### 3.6. Polkascan Harvester V2
-Python Bindings SR25519 is an interface that exposes methods from a RUST crate and makes them accessible to the Python Interpreter using PyO3.
-- Repository: https://github.com/polkascan/py-sr25519-bindings
-- Documentation: https://docs.rs/py-sr25519-bindings/0.1.2/sr25519/
-
 ## 4. Roadmap
 ### 4.1. General activities
 - 0.20 FTU (25% of the requested resources) is budgeted for refactoring activities to account for technical debt as a result of the high flux of Substrate over the past 2 years.
