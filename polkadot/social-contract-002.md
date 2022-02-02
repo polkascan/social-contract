@@ -67,19 +67,22 @@ Details of the Centrifuge application can be found [here](https://polkadot.polka
 Polkascan Foundation's treasury funding requests matches the Centrifuge application in size and activity.
 
 ## 8. Reporting
-Polkascan Foundation reports on its activities on a monthly basis.
-Monthly reports that account for maintenance & support contract activities can be found here:
-- [October 2020](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202010.md)
-- [November 2020](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202011.md)
-- [December 2020](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202012.md)
-- [January 2021](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202101.md)
-- [February 2021](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202102.md)
-- [March 2021](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202103.md)
-- [April 2021](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202104.md)
-- [May 2021](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202105.md)
-- [June 2021](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202106.md)
-- [July 2021](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202107.md)
-- [August 2021](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202108.md)
+Polkascan Foundation reports on its activities on a periodic basis.
+Reports that account for maintenance & support contract activities can be found here:
+- [2020 October](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202010.md)
+- [2020 November](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202011.md)
+- [2020 December](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202012.md)
+- [2021 January](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202101.md)
+- [2021 February](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202102.md)
+- [2021 March](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202103.md)
+- [2021 April](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202104.md)
+- [2021 May](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202105.md)
+- [2021 June](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202106.md)
+- [2021 July](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202107.md)
+- [2021 August](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202108.md)
+- [2021 September](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202109.md)
+- [2021 Quarter 4]https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-2021Q4.md
+
 
 ## 9. License
 The Polkascan Block Explorer has historically been the primary use-case for the Python libraries. The license for these Libraries is the Apache 2.0 license.  This license will allow for broader adoption of the libraries and should take away most (if not all) friction for community contributions.
