@@ -18,6 +18,6 @@ It was an intensive refactor effort for the library and now enables the use of t
 
 This month we still had to maintain a hybrid situation, where most Substrate implementations didn't upgrade to `MetadataV14` yet.
 
-An interesting number to point out is that since last year our libraries are being used in more than [100 repositories and packages](https://github.com/polkascan/py-scale-codec/network/dependents?dependent_type=PACKAGE). 
+An interesting number to point out is that since last year our libraries are being used in more than [100 repositories and packages](https://github.com/polkascan/py-scale-codec/network/dependents?dependent_type=REPOSITORY). 
 
 Link to this report with hour breakdown: https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202109.md
