@@ -81,7 +81,9 @@ Reports that account for maintenance & support contract activities can be found 
 - [2021 July](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202107.md)
 - [2021 August](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202108.md)
 - [2021 September](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-202109.md)
-- [2021 Quarter 4]https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-2021Q4.md
+- [2021 Quarter 4](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-2021Q4.md)
+- [2022 Quarter 1](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-2022Q1.md)
+- [2022 Quarter 2](https://github.com/polkascan/social-contract/blob/master/polkadot/treasury-proposal-008-report-2022Q2.md)
 
 
 ## 9. License
