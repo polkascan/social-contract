@@ -101,19 +101,18 @@ Polkascan Foundation will report and evaluate after delivery in the Kusama direc
 
 ## Treasury Spending Proposal
 
-|                                  |                     Amount |
-|:-------------------------------- | --------------------------:|
-| Services                         | 35,000 EUR (280 hours[^1]) |
-| 21% VAT                          |                  7,350 EUR |
-|                                  |                            |
-| Total Services                   |                 42,350 EUR |
-| Total Treasury Spending Proposal |             ###.## KSM[^2] |
+|                            |           Amount |
+|:-------------------------- | ----------------:|
+| Hours total                |              280 |
+| Hourly rate                |         € 151,25 |
+| Services                   |       42,350 EUR |
+| Treasury Spending Proposal |   ###.## KSM[^1] |
 
-[^1]: Please refer to our [Business Plan](https://polkascan.org/wp-content/uploads/2022/03/Business-Plan-Polkascan-Foundation-v20220218.1030.pdf) (page 39) for the composition of our hourly rate.
-
-[^2]: The amount of KSM to cover the expenses will be liquidated in advance from our KSM reserves to prevent foreign exchange risk. For this reason the price snapshot will be taken on the day of the publication of this Treasury Proposal. [Kraken](https://trade.kraken.com/charts/KRAKEN:KSM-EUR) lists the following spot price on ## MONTH 2022, ##:## CET: ##.#### EUR/KSM.
+[^1]: The amount of KSM to cover the expenses will be liquidated in advance from our KSM reserves to prevent foreign exchange risk. For this reason the price snapshot will be taken on the day of the publication of this Treasury Proposal. [Kraken](https://trade.kraken.com/charts/KRAKEN:KSM-EUR) lists the following spot price on ## MONTH 2022, ##:## CET: ##.#### EUR/KSM.
 
 ## About Polkascan Foundation
 
 [Polkascan Foundation](https://polkascan.org/) is a not-for-profit infrastructure service provider and maintainer of open source software, such as [Polkascan Explorer](https://explorer.polkascan.io/), [Python libraries](https://github.com/polkascan/social-contract/blob/master/polkadot/social-contract-002.md), and new and upcoming tools such as [Polkascan Calendar](https://calendar.polkascan.io).
+
+Polkascan Kusama beneficiary address: DxrsTtxgLN3iEvTX32kpdyEZbggPn9eHYP3miTdELqw4MPj
 
