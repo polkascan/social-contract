@@ -104,11 +104,13 @@ Polkascan Foundation will report and evaluate after delivery in the Kusama direc
 |                            |           Amount |
 |:-------------------------- | ----------------:|
 | Hours total                |              280 |
-| Hourly rate                |         € 151.25 |
+| Hourly rate                |     € 151.25[^1] |
 | Services                   |       42,350 EUR |
-| Treasury Spending Proposal |   ###.## KSM[^1] |
+| Treasury Spending Proposal |   ###.## KSM[^2] |
 
-[^1]: The amount of KSM to cover the expenses will be liquidated in advance from our KSM reserves to prevent foreign exchange risk. For this reason the price snapshot will be taken on the day of the publication of this Treasury Proposal. [Kraken](https://trade.kraken.com/charts/KRAKEN:KSM-EUR) lists the following spot price on ## MONTH 2022, ##:## CET: ##.#### EUR/KSM.
+[^1]: Hourly rate consists of our contractors' hourly rate of € 121.00 (including VAT) plus 25% overhead (housing and facilities, accounting, etc.) as specified in our [business plan](https://polkascan.org/wp-content/uploads/2022/03/Business-Plan-Polkascan-Foundation-v20220218.1030.pdf), page 39.
+
+[^2]: The amount of KSM to cover the expenses will be liquidated in advance from our KSM reserves to prevent foreign exchange risk. For this reason the price snapshot will be taken on the day of the publication of this Treasury Proposal. [Kraken](https://trade.kraken.com/charts/KRAKEN:KSM-EUR) lists the following spot price on ## MONTH 2022, ##:## CET: ##.#### EUR/KSM.
 
 ## About Polkascan Foundation
 
