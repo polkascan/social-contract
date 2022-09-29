@@ -104,7 +104,7 @@ Polkascan Foundation will report and evaluate after delivery in the Kusama direc
 |                            |           Amount |
 |:-------------------------- | ----------------:|
 | Hours total                |              280 |
-| Hourly rate                |         € 151,25 |
+| Hourly rate                |         € 151.25 |
 | Services                   |       42,350 EUR |
 | Treasury Spending Proposal |   ###.## KSM[^1] |
 
