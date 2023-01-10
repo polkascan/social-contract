@@ -1,6 +1,8 @@
 # Delivery Report for the Polkascan Explorer Improvements (Kusama TP 214)
 
-We are pleased to present the delivery report for the improvements made to the [Polkascan Explorer](https://github.com/polkascan/explorer), as outlined in Kusama Treasury Proposal #214. More information about our project can be found in the [social contract](https://github.com/polkascan/social-contract/blob/master/kusama/treasury-proposal-214.md) and on the [Polkassembly](https://kusama.polkassembly.io/treasury/214) post.
+We are pleased to present the delivery report for the improvements made to the [Polkascan Explorer software stack](https://github.com/polkascan/explorer), as outlined in Kusama Treasury Proposal #214. More information about our project can be found in the [social contract](https://github.com/polkascan/social-contract/blob/master/kusama/treasury-proposal-214.md) and on the [Polkassembly](https://kusama.polkassembly.io/treasury/214) post.
+
+To see these improvements in action, we've created a separate domain that uses a recent subset of Polkadot blockchain data. You can find it at https://explorer-dev.polkascan.io/. Because this code is not backwards-compatible with the current production database, we haven't upgraded the official Polkascan Explorer, yet. 
 
 As stated in the proposal, the following features have been successfully implemented:
 
@@ -14,10 +16,7 @@ As stated in the proposal, the following features have been successfully impleme
 * Additional filters on list pages (such as date range, block range, runtime version, etc.)
 * Tree view of call arguments and event attributes.
 
-To see these improvements in action, we've created a separate domain that uses a recent subset of Polkadot blockchain data. You can find it at https://explorer-dev.polkascan.io/. Because this code is not backwards-compatible with the current production database, we haven't upgraded the official Polkascan Explorer, yet. 
-
 We hope that these enhancements will improve the overall functionality and usability of the Polkascan Explorer. Thank you for your support.
-
 
 Development has progressed in the following basic respositories of the project:
 
@@ -51,7 +50,7 @@ We've spent more hours than estimated in our proposal (280 hours), albeit still 
     The explorer-api ETL procedure has been changed to reflect the changes in the harvester, for the new added CodecEventIndexAccount model. A new query (get_events_for_account) and subscription (subscribe_new_event_for_account) with filters have been added.
 
 
-    The explorer-ui has been expanded with new functions added to the [Polkascan explorer adapter](https://github.com/polkascan/polkadapt/tree/main/projects/polkascan-explorer). This functionality fetches a list of [account-specific events](https://github.com/polkascan/polkadapt/blob/treasury-proposal-214/projects/polkascan-explorer/src/lib/web-socket/account-event.functions.ts). Filters can be used to get more specific events. Multiple new features will be able to use these account-specific events.
+    The explorer-ui has been expanded with new functions added to the [Polkascan explorer adapter](https://github.com/polkascan/polkadapt/tree/main/projects/polkascan-explorer). This functionality fetches a list of [account-specific events](https://github.com/polkascan/polkadapt/tree/main/projects/polkascan-explorer/src/lib/web-socket/account-event.functions.ts). Filters can be used to get more specific events. Multiple new features will be able to use these account-specific events.
 
     Besides being able to filter the event list by account address, we also show a short list of recent events on the account detail page. 
 
