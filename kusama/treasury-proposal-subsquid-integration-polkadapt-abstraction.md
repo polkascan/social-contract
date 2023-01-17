@@ -36,7 +36,7 @@ Some examples of the API's we intend to use are:
 https://squid.subsquid.io/polkadot-explorer/graphql
 https://polkadot.explorer.subsquid.io/graphql
 
-These API's provide other calls with different return values than our own Explorer API. We need to do some conversions to match the desired abstracted API an be compatible with the other Adapters. Some abstraction calls might require multiple Subsquid API calls and some might even depend on the results of other calls. A flexible mechanism is required to have one API for multiple data sources.
+These API's provide other calls with different return values than our own Explorer API. We need to do some conversions to match the desired abstracted API and be compatible with the other Adapters. Some abstraction calls might require multiple Subsquid API calls and some might even depend on the results of other calls. A flexible mechanism is required to have one API for multiple data sources.
 
 
 ## Polkadapt Explorer Adapter
