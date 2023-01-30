@@ -1,4 +1,4 @@
-# Adding Subsquid data sources to Polkascan Explorer through a new abstraction layer in Polkadapt (Kusama TP ###)
+# Adding Subsquid data sources to Polkascan Explorer through a new abstraction layer in Polkadapt (Kusama Referendum)
 
 The [Polkascan block explorer](https://explorer.polkascan.io/) is one of multiple software solutions provided to the open source community by the Polkascan Foundation. In this proposal we outline our wish to integrate [Subsquid](https://subsquid.io/) as a data source for the open source block explorer, while adding a new abstraction layer to the Polkadapt communications library to make it easy for application developers to use multiple sources of data coherently and consistently.
 
@@ -139,11 +139,11 @@ Polkascan Foundation will report and evaluate after delivery in the Kusama direc
 | Hours total                |              428 |
 | Hourly rate                |     € 151.25[^1] |
 | Services                   |       64,735 EUR |
-| Treasury Spending Proposal |  ###.### KSM[^2] |
+| Treasury Spending Proposal |     2039 KSM[^2] |
 
 1. Hourly rate consists of our contractors' hourly rate of € 121.00 (including VAT) plus 25% overhead (housing and facilities, accounting, etc.) as specified in our [business plan](https://polkascan.org/wp-content/uploads/2022/03/Business-Plan-Polkascan-Foundation-v20220218.1030.pdf), page 39.
 
-2. The amount of KSM to cover the expenses will be liquidated in advance from our KSM reserves to prevent foreign exchange risk. For this reason the price snapshot will be taken on the day of the publication of this Treasury Proposal. [Kraken](https://trade.kraken.com/charts/KRAKEN:KSM-EUR) lists the following spot price on # MONTH 2023, HH:MM CET: ##.## EUR/KSM.
+2. The amount of KSM to cover the expenses will be liquidated in advance from our KSM reserves to prevent foreign exchange risk. For this reason the price snapshot will be taken on the day of the publication of this Treasury Proposal. [Kraken](https://trade.kraken.com/charts/KRAKEN:KSM-EUR) lists the following spot price on 30 January 2023, 14:23 CET: 31.75 EUR/KSM.
 
 
 ## About Polkascan Foundation
