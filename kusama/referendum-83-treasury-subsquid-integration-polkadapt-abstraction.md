@@ -1,4 +1,4 @@
-# Adding Subsquid data sources to Polkascan Explorer through a new abstraction layer in Polkadapt (Kusama Referendum)
+# Adding Subsquid data sources to Polkascan Explorer through a new abstraction layer in Polkadapt (Kusama Referendum 83)
 
 The [Polkascan block explorer](https://explorer.polkascan.io/) is one of multiple software solutions provided to the open source community by the Polkascan Foundation. In this proposal we outline our wish to integrate [Subsquid](https://subsquid.io/) as a data source for the open source block explorer, while adding a new abstraction layer to the Polkadapt communications library to make it easy for application developers to use multiple sources of data coherently and consistently.
 
