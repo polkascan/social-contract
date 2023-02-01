@@ -1,5 +1,14 @@
 # Adding Subsquid data sources to Polkascan Explorer through a new abstraction layer in Polkadapt (Kusama Referendum 83)
 
+## TL;DR
+
+One benefit of our proposal is cost savings for (para)chain teams. They will be able to use [Subsquid](https://subsquid.io/)'s managed data providers for their self-hosted [Polkascan block explorer](https://explorer.polkascan.io/). This removes the burden of hosting and maintaining Polkascan backend [software](https://github.com/polkascan/explorer) (database, harvester, GraphQL API) on their own servers.
+
+Another benefit is that application developers won't have to write different code for different data providers - each having its own call structure and data types. Instead, our improved [software package](https://github.com/polkascan/polkadapt) will provide one API that retrieves and transforms data from multiple providers (Subsquid, Polkascan, Substrate nodes, etc.) in a consistent/coherent manner. This helps in keeping application code clean from complex multi-provider logic.
+
+
+## Introduction
+
 The [Polkascan block explorer](https://explorer.polkascan.io/) is one of multiple software solutions provided to the open source community by the Polkascan Foundation. In this proposal we outline our wish to integrate [Subsquid](https://subsquid.io/) as a data source for the open source block explorer, while adding a new abstraction layer to the Polkadapt communications library to make it easy for application developers to use multiple sources of data coherently and consistently.
 
 To query archived and optimized blockchain data, the services provided by Subsquid are a good fit for the Polkascan Explorer as an alternative to our own back-end [software stack](https://github.com/polkascan/explorer). We've investigated the possibility of using Subsquid's GraphQL endpoints instead of the GraphQL endpoint provided by our [Explorer API](https://github.com/polkascan/explorer-api). The upside to using these is that you won't have to self-host and manage your own node, database, [Harvester](https://github.com/polkascan/harvester), and API — which can be costly. You can just host a simple low cost webserver for the front-end [Explorer UI](https://github.com/polkascan/explorer-ui) and configure it to use the Subsquid API's only.
