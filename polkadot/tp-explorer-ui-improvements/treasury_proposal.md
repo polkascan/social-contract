@@ -28,7 +28,7 @@ Also, we would like to add a live list of incoming calls and events on this page
 
 A sketch of what this dashboard could look like:
 
-![Dashboard sketch](tp-explorer-ui-improvements/polkascan_dashboard.png)
+![Dashboard sketch](polkascan_dashboard.png)
 
 ## Validators and Staking Page
 
