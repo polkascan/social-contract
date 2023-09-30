@@ -73,7 +73,7 @@ Polkascan verified benificary account: [13eDnpY969xLyu7NgnV9bVg5s9dcrq1UyQn7wAuD
 
 ## About Polkascan
 
-The [Polkascan Foundation](https://polkascan.org) is a not-for-profit infrastructure service provider and maintainer of Polkadot ecosystem open source software, such as the [Polkascan Explorer](https://github.com/polkascan/explorer) and Python client libraries. 
+The [Polkascan Foundation](https://polkascan.org) is a not-for-profit infrastructure service provider and maintainer of Polkadot ecosystem open source software, such as the [Polkascan Explorer](https://github.com/polkascan/explorer) and [Python client libraries](https://github.com/polkascan/social-contract/blob/master/polkadot/social-contract-002.md). 
 
 
 [^1]: Please refer to our [Business Plan](https://polkascan.org/wp-content/uploads/2022/03/Business-Plan-Polkascan-Foundation-v20220218.1030.pdf) (page 39) for the composition of our hourly rate.
