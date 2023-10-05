@@ -1,4 +1,4 @@
-# Beyond Raw Data: How Polkascan Transforms Subsquid Aggregates into a User-Friendly Polkadot Experience (Polkadot Treasury Proposal)
+# Beyond Raw Data: How Polkascan Transforms Subsquid Aggregates into a User-Friendly Polkadot Experience (Polkadot Referendum)
 
 ## Introduction
 
@@ -29,6 +29,7 @@ Also, we would like to add a live list of incoming calls and events on this page
 A sketch of what this dashboard could look like:
 
 ![Dashboard sketch](polkascan_dashboard.png)
+
 
 ## Validators and Staking Page
 
@@ -64,6 +65,7 @@ Polkascan fetches identities from the substrate node. These identities are now a
 
 We want to further improve the search experience. The search bar should always be available, instead of showing it only on the dashboard as it is now. While typing, the search bar will show a preview with results for the user's search query.
 
+
 ## Transfers and Rewards Pages
 
 > We're improving our pages to leverage Subsquid's specialized data lists for transfers and rewards, promising speed and efficiency.
@@ -72,17 +74,20 @@ We already have a page for transfers, but it could load a lot faster. Currently 
 
 The same goes for staking rewards. Subsquid also has a dedicated list of rewards for us to use instead of filtering events, like we do now. For rewards, we'll now have the capability to create new list page with all recent staking rewards for any account.
 
+
 ## Combine Staking Events with Staking Calls
 
 > We're merging staking events and calls into one comprehensive view, giving you a complete picture of staking activities at a glance.
 
 Currently, the Staking tab within the account page predominantly displays staking-related events. While this feature has been useful, we recognize that it can be further improved to offer a more comprehensive view of staking activities, providing users with a fuller picture of the staking landscape. We want to augment the existing functionality by incorporating staking calls alongside staking events and provide a cohesive presentation. Users will have access to a complete set of staking data, painting a full picture of all staking activities without having to toggle between different resources.
 
+
 ## Historical Balance
 
 > Track account balance changes effortlessly with our revamped chart that offers a broader perspective by showcasing daily or weekly data points.
 
 The historical balance chart currently plots a data point for every change of an account balance, based on event data. Some accounts have lots of these changes per day, rendering the chart unusable. We want to fix this by querying balances in daily and/or weekly intervals. The chart will then be able to present a usable chart for larger periods of time.
+
 
 ## Technical improvements
 
@@ -99,6 +104,7 @@ Our explorer uses multiple Subsquid endpoints for different parts of data. Subsq
 ### BN.js for Big Numbers
 
 We want to start using BN.js in our adapters and in the explorer. This fixes tokens that have 12 or more decimal values.
+
 
 ## Overview of time planned
 
@@ -119,13 +125,16 @@ We want to start using BN.js in our adapters and in the explorer. This fixes tok
 |                                                             |       |
 | Hours total                                                 |   432 |
 
+
 ## Team & Planning
 
 The team will consist of two part-time developers. We estimate a duration of 15 weeks of development work.
 
+
 ## Reporting
 
 Polkascan Foundation will report and evaluate after delivery in Polkassembly and other relevant channels.
+
 
 ## Treasury Spending Proposal
 
@@ -134,14 +143,15 @@ Polkascan Foundation will report and evaluate after delivery in Polkassembly and
 | Hours total                |              432 |
 | Hourly rate                |     € 151.25[^1] |
 | Services                   |       65,340 EUR |
-| Treasury Spending Proposal |    16674 DOT[^2] |
+| Treasury Spending Proposal |    16955 DOT[^2] |
 
-1. Hourly rate consists of our contractors' hourly rate of € 121.00 (including VAT) plus 25% overhead (housing and facilities, accounting, etc.) as specified in our [business plan](https://polkascan.org/wp-content/uploads/2022/03/Business-Plan-Polkascan-Foundation-v20220218.1030.pdf), page 39.
+Polkascan verified beneficiary account: [13eDnpY969xLyu7NgnV9bVg5s9dcrq1UyQn7wAuDXxtYyKA6](https://explorer.polkascan.io/polkadot/account/13eDnpY969xLyu7NgnV9bVg5s9dcrq1UyQn7wAuDXxtYyKA6)
 
-2. The amount of DOT to cover the expenses is determined by the current 30 day EMA, which stands at 3.9187 EUR/DOT on Kraken on 26 September 2023.
 
-## About Polkascan Foundation
+## About Polkascan
 
 [Polkascan Foundation](https://polkascan.org/) is a not-for-profit infrastructure service provider and maintainer of open source software, such as [Polkascan Explorer](https://explorer.polkascan.io/), [Python libraries](https://github.com/polkascan/social-contract/blob/master/polkadot/social-contract-002.md), and new and upcoming tools such as [Polkascan Calendar](https://calendar.polkascan.io).
 
-Polkascan Polkadot beneficiary address: 13eDnpY969xLyu7NgnV9bVg5s9dcrq1UyQn7wAuDXxtYyKA6
+[^1]: Please refer to our [Business Plan](https://polkascan.org/wp-content/uploads/2022/03/Business-Plan-Polkascan-Foundation-v20220218.1030.pdf) (page 39) for the composition of our hourly rate.
+
+[^2]: The amount of DOT to cover the expenses will be liquidated in advance from our DOT reserves to prevent foreign exchange risk. For this reason, the price snapshot will be taken on the day of the publication of this Treasury Proposal. [Kraken](https://trade.kraken.com/charts/KRAKEN:DOT-EUR) lists the following spot price on October 5th 2023, 13:15 CET: 3.8538 EUR/DOT.
