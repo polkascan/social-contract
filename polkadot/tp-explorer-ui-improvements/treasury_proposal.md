@@ -1,4 +1,4 @@
-# Beyond Raw Data: How Polkascan Transforms Subsquid Aggregates into a User-Friendly Polkadot Experience (Polkadot Referendum)
+# Beyond Raw Data: How Polkascan Transforms Subsquid Aggregates into a User-Friendly Polkadot Experience (Polkadot Referendum [#180](https://polkadot.polkassembly.io/referenda/180))
 
 ## Introduction
 
